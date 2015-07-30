@@ -2,3 +2,11 @@
 name = "raw-vec"
 version = "0.1.0"
 authors = ["Alexis Beingessner <a.beingessner@gmail.com>"]
+
+license = "MIT/Apache-2.0"
+description = "A Raw utility for managing contiguous heap allocations"
+repository = "https://github.com/contain-rs/raw-vec"
+homepage = "https://github.com/contain-rs/raw-vec"
+documentation = "https://contain-rs.github.io/raw-vec/raw_vec"
+keywords = ["data-structures", "collections", "raw_vec", "vec", "contain-rs"]
+readme = "README.md"
